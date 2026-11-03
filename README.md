@@ -18,23 +18,23 @@ O sistema será desenvolvido utilizando tecnologias web modernas, com separaçã
 
 ## 2.1.	Funcionalidades do cliente
 
-Cadastro de usuários. Login e logout.
-Autenticação e autorização de acesso. Edição de informações pessoais.
-Consulta ao catálogo de peças automotivas. Pesquisa de produtos por nome ou descrição. Filtragem de produtos por categoria.
-Visualização de detalhes dos produtos.
-Consulta de preços e disponibilidade em estoque. Adição de produtos ao carrinho de compras.
-Remoção de produtos do carrinho. Alteração da quantidade de produtos. Cálculo automático do valor total da compra. Finalização de pedidos.
-Simulação de métodos de pagamento. Registro de transações comerciais.
-Visualização do histórico de pedidos. Consulta do status dos pedidos.
+> Cadastro de usuários. Login e logout.
+> Autenticação e autorização de acesso. Edição de informações pessoais.
+> Consulta ao catálogo de peças automotivas. Pesquisa de produtos por nome ou descrição. Filtragem de produtos por categoria.
+> Visualização de detalhes dos produtos.
+> Consulta de preços e disponibilidade em estoque. Adição de produtos ao carrinho de compras.
+> Remoção de produtos do carrinho. Alteração da quantidade de produtos. Cálculo automático do valor total da compra. Finalização de pedidos.
+> Simulação de métodos de pagamento. Registro de transações comerciais.
+> Visualização do histórico de pedidos. Consulta do status dos pedidos.
 
 ## 2.2.	Funcionalidades administrativas
  
-Login administrativo. Cadastro de novos produtos.
-Edição de produtos existentes. Exclusão ou desativação de produtos. Gerenciamento de categorias.
-Atualização dos preços dos produtos. Gerenciamento do estoque.
-Consulta de produtos disponíveis e indisponíveis. Visualização de clientes cadastrados.
-Consulta de pedidos realizados. Atualização do status dos pedidos. Consulta das transações realizadas.
-Visualização de informações gerais sobre as vendas.
+> Login administrativo. Cadastro de novos produtos.
+> Edição de produtos existentes. Exclusão ou desativação de produtos. Gerenciamento de categorias.
+> Atualização dos preços dos produtos. Gerenciamento do estoque.
+> Consulta de produtos disponíveis e indisponíveis. Visualização de clientes cadastrados.
+> Consulta de pedidos realizados. Atualização do status dos pedidos. Consulta das transações realizadas.
+> Visualização de informações gerais sobre as vendas.
 
 ## 2.3.	Funcionalidades relacionadas às transações
 
@@ -92,7 +92,8 @@ JavaScript: implementação de comportamentos e funcionalidades interativas. Rea
 
 ## 4.2.	Backend
 
-Node.js: execução de serviços e funcionalidades do lado do servidor. Django: desenvolvimento de serviços e regras de negócio utilizando Python.
+Node.js: execução de serviços e funcionalidades do lado do servidor. 
+Django: desenvolvimento de serviços e regras de negócio utilizando Python.
 Web Service REST: comunicação entre frontend e backend por meio de requisições HTTP. Rotas: organização dos endpoints responsáveis pelas operações do sistema.
 
 A arquitetura deverá definir claramente as responsabilidades de Node.js e Django, evitando duplicação de funcionalidades e regras de negócio.
